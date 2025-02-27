@@ -1,4 +1,4 @@
-# Breakdown of my past projects portfolio, tech skills, and approach.
+# Breakdown of my past projects and tech skills
 The goal of this webpage is to provide a comprehensive overview of my skills, project examples, and showcase some of my data visualization skills. 
 
 ## My approach and experience
