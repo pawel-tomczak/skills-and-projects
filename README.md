@@ -9,7 +9,7 @@ Thanks to my expertise in psychological research, I was often able to expand the
 
 Here is a simplified blueprint that works for the majority of the data projects. The steps are arbitrary - projects often require iterations between steps 1 and 2 and making sure that the client confirms and accepts all of the assumptions that need to be made along the way. 
 
-Step 1 - Soft skills
+Step 1 - Soft skills/n
 The first step is crucial for setting up the project for success. Establishing the stakeholder expectations and needs allows to figure out what would be the expected project outcome. However, the outcome has to be possible to achieve with the available resources. That is why auditing the data sources and available metrics is key for defining the scope and final result.
 ![skills](/assets/step1.jpg)
 
