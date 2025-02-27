@@ -19,7 +19,7 @@ Depending on the project, I’ve utilized many different analysis techniques. Ex
 - Cluster analysis and classification algorithms, very helpful for data-driven client segmentation.
 - Time-series data analysis, including ARIMA and other prediction models.
 
-[TABLE HERE]
+![skills](/assets/skills table 2025.jpg)
 
 ## Past projects overview
 In this section, you can find examples of projects that I’ve been working on. Due to many NDAs, I am unable to share details that connect the projects with specific companies. The goal of this overview is to show the scope of work that I’ve been doing, as well as highlight my experience with different tools and analysis methods. 
