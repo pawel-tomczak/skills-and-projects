@@ -7,6 +7,23 @@ In short, I am using data to extract useful knowledge and insights to support st
 There is a universal problem that almost every company has to face: the data is either hard to get from the technical standpoint or it does not even exist in the first place.
 Thanks to my expertise in psychological research, I was often able to expand the scope of the product-based metrics with additional research. Employing experiments (e.g. AB tests), custom surveys, and in-depth interviews played a crucial role in exploring user insights and needs.
 
+Here is a simplified blueprint that works for the majority of the data projects. The steps are arbitrary - projects often require iterations between steps 1 and 2 and making sure that the client confirms and accepts all of the assumptions that need to be made along the way. 
+
+Step 1 - Soft skills
+The first step is crucial for setting up the project for success. Establishing the stakeholder expectations and needs allows to figure out what would be the expected project outcome. However, the outcome has to be possible to achieve with the available resources. That is why auditing the data sources and available metrics is key for defining the scope and final result.
+![skills](/assets/step1.jpg)
+
+Step 2 - Hard skills
+The second step is mostly technical - it requires carrying out additional research if the required metrics are not accessible or do not exist. After getting all the data, the typical data process begins: data wrangling and cleaning, exploratory analysis, hypothesis testing, and model development. 
+![skills](/assets/step2.jpg)
+
+
+Step 3 - Outcome
+Provided that everything works well, the third step is all about creating the final deliverable. Depending on the project, it can be a set of custom visualizations, key insights and recommendations, a dashboard, or a data model. The most important part is that there are no surprises at this point - the deliverable has to be exactly what was defined at the beginning of the project (unless redefined along the way).
+![skills](/assets/step3.jpg)
+
+
+
 ## Technical skills
 I believe that tech skills are less important than the ability to uncover stakeholder needs and define the exact questions that need to be answered. However, in the span of my career, my work required me to use a variety of tools to extract and clean the data before the analysis. 
 
